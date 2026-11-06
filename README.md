@@ -59,7 +59,3 @@ Chess, game development, C++ side projects, and travel.
 - LinkedIn: www.linkedin.com/in/noah-arrowsmith-ab4084358
 - Email: noaharrow22@gmail.com
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahjit&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
