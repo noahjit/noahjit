@@ -31,13 +31,20 @@ A complete chess engine with a drag-and-drop GUI built on **ImGui, GLFW and Open
 - A **PyTorch-trained neural network** evaluation function (MLP), with weights exported to text and a hand-written forward pass in C++ used as the minimax leaf evaluation
 
   
-### 📝 Contribution Report Generator ([repo](https://github.com/noahjit/github-contribution-report-gen))
+### Contribution Report Generator ([repo](https://github.com/noahjit/github-contribution-report-gen))
 A **Probot GitHub App** that records repository activity and AI-use evidence for group projects, then drafts editable reports and declarations.
 - Comment commands on PRs (`/report`, `/ai`, `/declaration`) to log AI use and generate contribution reports
 - Estimated activity share from merged PRs, commits and reviews, with team-editable weights
 - Drafts AI declarations aligned with a university "Bounded Process" form, with Word (.docx) export
 - Web dashboard with GitHub sign-in, team review (`/confirm`, `/flag`) and a live weights editor
 - Built with Node.js and TypeScript, tested with Vitest, and deployable with Docker or Render
+
+### Task Manager Clone (C++ / ImGui) ([repo](https://github.com/noahjit/task-manager-v2))
+A desktop task management application built in modern C++, with an interactive graphical interface and persistent local storage.
+- Immediate-mode graphical interface built with ImGui
+- File persistence and data management using the C++ <filesystem> library
+- Modular application architecture focused on maintainability
+- Built with modern C++ and the Standard Template Library (STL)
 
 ### MCBA Banking App (C# / ASP.NET Core)
 Started as a .NET console banking app and grew into a full ASP.NET Core MVC website and API on Azure SQL.
@@ -51,11 +58,11 @@ Started as a .NET console banking app and grew into a full ASP.NET Core MVC webs
 **Game Developer, Akuno Games** (remote)
 Worked in a distributed team using Unity and C#, with a Git-based workflow, and used Blender for assets.
 
-## 🎯 Interests
+## Interests
 
 Chess, game development, C++ side projects, and travel.
 
-## 📫 Get in touch
+## Get in touch
 - LinkedIn: www.linkedin.com/in/noah-arrowsmith-ab4084358
 - Email: noaharrow22@gmail.com
 ---
